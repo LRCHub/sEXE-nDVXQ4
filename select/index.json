@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "HONEY",
+  "base_artist": "L'Arc-en-Ciel",
+  "createdAt": "2025-12-14T02:06:11.774458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honey",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Honey_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honey",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Honey_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "American Honey",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/03_American_Honey_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honey",
+      "artist": "Bobby Goldsboro",
+      "has_synced": true,
+      "path": "select/04_Honey_Bobby_Goldsboro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Honey (Open That Door)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/05_Honey_(Open_That_Door)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Honey (Open That Door) (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/06_Honey_(Open_That_Door)_(Album_Version)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honey Bee",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/07_Honey_Bee_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honey Bee",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/08_Honey_Bee_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honey I'm Home",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/09_Honey_I'm_Home_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honey I'm Home (Stripped)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/10_Honey_I'm_Home_(Stripped)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Honey, I'm Home",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/11_Honey,_I'm_Home_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Someone Loves You Honey",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/12_Someone_Loves_You_Honey_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Money Honey",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/13_Money_Honey_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Honey",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/14_Honey_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Honey (소원)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/15_Honey_(소원)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Honey (소원)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/16_Honey_(소원)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Honey Boo Buscemi",
+      "artist": "Secret Band",
+      "has_synced": true,
+      "path": "select/17_Honey_Boo_Buscemi_Secret_Band.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Honey Revenge",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/18_Honey_Revenge_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HONEY",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_HONEY_L'Arc-en-Ciel.txt"
+    }
+  ]
+}
